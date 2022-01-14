@@ -50,11 +50,8 @@ HELP_MESSAGE = f"""<b><u>Main Available Commands</u></b>
 ABOUT_MESSAGE = f"""<b><u>ABOUT ME</u></b>
 
 <b>○ Maintained by : <a href='tg://user?id={OWNER_ID}'>This Person</a>
-○ Channel : <a href='https://t.me/CodeXBotz'>Code 𝕏 Botz</a>
-○ Support : <a href='https://t.me/CodeXBotzSupport'>Code 𝕏 Botz Support</a>
-○ Source Code : <a href='https://github.com/CodeXBotz/Inline-Filter-Bot'>Click here</a>
-○ Language : <a href='https://www.python.org/'>Python 3</a>
-○ Library : <a href='https://github.com/pyrogram/pyrogram'>Pyrogram Asyncio {__version__}</a></b>
+○ Channel : <a href='https://t.me/pokemoncatcherupdates'>Pokémon Catcher</a>
+○ Support : <a href='https://t.me/pokemon_catcher_support'>Pokémon Catcher Support</a></a></b>
 """
 
 MARKDOWN_HELP = """<b><u>Markdown Formatting</u></b>
@@ -80,16 +77,16 @@ MARKDOWN_HELP = """<b><u>Markdown Formatting</u></b>
     show as: <s>StrikeThrough Text</s>
     
 ○ <b>Hyper Link</b>
-    format: <code>[Text](https://t.me/CodeXBotz)</code>
-    show as: <a href='https://t.me/CodeXBotz'>Text</a>
+    format: <code>[Text](https://t.me/pokemoncatcherupdates)</code>
+    show as: <a href='https://t.me/pokemoncatcherupdates'>Text</a>
     
 ○ <b>Buttons</b>
     <u>Url Button</u>:
-    <code>[Button Text](buttonurl:https://t.me/CoddeXBotz)</code>
+    <code>[Button Text](buttonurl:https://t.mepokemoncatcherupdates)</code>
     <u>Alert Button</u>:
     <code>[Button Text](buttonalert:Alert Text)</code>
     <u>In Sameline</u>:
-    <code>[Button Text](buttonurl:https://t.me/CodeXBotz:same)</code></i>
+    <code>[Button Text](buttonurl:https://t.me/pokemoncatcherupdates)</code></i>
 
 ○ <b>Notes:</b>
     <i>Keep every Buttons in Seperate line when formating</i>
